@@ -47,7 +47,7 @@ gh repo create amazon-review-watcher --private --source=. --push
 ```json
 {
   "products": [
-    { "asin": "実際のASIN", "name": "SMS Short Mirror Stay ブラック" }
+    { "asin": "実際のASIN", "name": "本棚 ブラック" }
   ]
 }
 ```
