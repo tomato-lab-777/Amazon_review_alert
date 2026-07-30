@@ -1,7 +1,7 @@
 {
   "products": [
-    { "asin": "B0XXXXXXXX", "name": "SMS Short Mirror Stay ブラック" },
-    { "asin": "B0YYYYYYYY", "name": "SMS Short Mirror Stay シルバー" },
-    { "asin": "B0ZZZZZZZZ", "name": "FLO Fuel Lid Opener" }
+    { "asin": "B0GMFQD4N8", "name": "SMS-JB74-05-GRY" },
+    { "asin": "B0GMGSLB3R", "name": "SMS-JB64-05-BLK" },
+    { "asin": "B0GMH1M4M1", "name": "SMS-JB74-05-BLK" }
   ]
 }
